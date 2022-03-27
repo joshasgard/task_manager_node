@@ -1,4 +1,5 @@
 ==GOALS==
 1. Setup and connect to cloud database
 2. Perform all CRUD operations
-3. 
+3. Setup .env
+5. Mongo_URI variable
