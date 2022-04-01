@@ -6,9 +6,10 @@
 
 
 ## How to run
-
+Run node app on your local machine with nodemon, using the command `npm start`
 
 ## License
 
 
 ## Contributors/Credits
+Youtube, GitHub and Grit
